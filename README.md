@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Bretteroo/Bretteroo/master/bretteroo-head.png" alt="Warmed by the glow of dated technology, Bretteroo places a panicked late-night call">
 
-I'm Bretteroo.  I've worked in tech for 25+ years, and while I'm not much of a coder, I'm good with AI.  I'm passionate about Free Open Source Software (FOSS), protecting the Open Web, and advocating for AI as an enabler of humans, not a replacer of them.
+I'm Bretteroo.  I've worked in tech for 25+ years, and while I'm not much of a coder, I'm pretty ok with AI.  I'm passionate about Free Open Source Software (FOSS), protecting the Open Web, and advocating for AI as an enabler of humans, not a replacer of them.
 
 I build and share things here that I personally use myself.  If you like them too, hey, that's great.
 
