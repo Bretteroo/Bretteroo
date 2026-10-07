@@ -13,7 +13,7 @@ I believe that all software should be *free* as in "It costs you zero dollars. T
 If this simple altruistic concept causes knee-jerk feelings of discontent to bubble up within you, you should get that checked out.
 
 In the meantime, there's always this...
-<center><a href="https://ko-fi.com/bretteroo"><img src="https://raw.githubusercontent.com/Bretteroo/Bretteroo/master/tipjar.png" width="25%" alt="Tip jar"></a></center>
+<center><a href="https://ko-fi.com/bretteroo"><img src="https://raw.githubusercontent.com/Bretteroo/Bretteroo/master/tipjar.png" width="300px" alt="Tip jar"></a></center>
 
 <!--
 **Bretteroo/Bretteroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
