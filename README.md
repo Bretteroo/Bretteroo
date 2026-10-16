@@ -8,7 +8,7 @@ I build and share things here that I personally use myself.  If you like them to
 
 ## Software should be free
 
-I believe that all software should be *free* as in "It costs you zero dollars. Today, tomorrow, forever."
+As in "It costs you zero dollars. Today, tomorrow, forever."
 
 If this simple altruistic concept causes knee-jerk feelings of discontent to bubble up within you, you should get that checked out.
 
